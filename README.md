@@ -32,4 +32,4 @@ Dan buat file baru dengan nama **form_input.php**
 
 Ini tampilannya di browser
 
-![Gambar 7](lab10_php_oop/screenshot/ss1d.png)
+![Gambar 7](lab10_php_oop/screenshot/ss2d.png)
